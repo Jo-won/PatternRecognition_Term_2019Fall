@@ -50,5 +50,5 @@ kmeans의 initialization을 gpu에서 하기 위해 kmc2 라이브러리를 사�
 | Name | codebook size | Result |
 |---|---|---|
 |Level0와 strong feature를 이용한 BOVW | 200 | 40.484% |
-|Level2와 strong feature를 이용한 BOVW (SPM level2) | 200 | 58.333% |
+|Level2와 strong feature를 이용한 BOVW (SPM level2) | 200 | 59.042% |
 | Level2와 strong feature를 이용한 BOVW (SPM level2) | 600 | 60.933% |
